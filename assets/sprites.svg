@@ -115,7 +115,7 @@
 <path d="M32.5 25.134C33.1667 25.5189 33.1667 26.4811 32.5 26.866L23.5 32.0622C22.8333 32.4471 22 31.966 22 31.1962L22 20.8038C22 20.034 22.8333 19.5529 23.5 19.9378L32.5 25.134Z" fill="white"/>
 	</symbol>
 
-	<symbol id = 'play-circle' width="84" height="84" viewBox="0 0 84 84">
+	<symbol id = 'play-circle' width="92" height="92" viewBox="0 0 92 92">
 		<circle opacity="0.12" cx="42" cy="42" r="42" fill="#FF3F3A"/>
 	</symbol>
 

@@ -41,9 +41,9 @@
 }
 .btn {
 	color: var(--co-white);
-	line-height: 52px;
+	line-height: 46px;
 	letter-spacing: 0.5s;
-	padding: 0 40px;
+	padding: 0 30px;
 	font-size: 16px;
 	font-weight: 700;
 	background: linear-gradient(70deg, #ff2f00, #ff5900);
