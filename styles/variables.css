@@ -1,0 +1,9 @@
+:root {
+	--co-black: #1e212c;
+	--co-light-black: #424551;
+	--co-grey: #787a80;
+	--co-light-grey: #9a9ca5;
+	--co-white: #fff;
+	--co-first-background: linear-gradient(56deg, #ff403a2f 0%, #f75e0530 100%);
+	--co-play-icon: #ff3f3a;
+}
